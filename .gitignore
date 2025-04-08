@@ -1,0 +1,18 @@
+# Ignorar archivos y carpetas del core de WordPress
+wp-admin/
+wp-includes/
+wp-config.php
+index.php
+readme.html
+license.txt
+xmlrpc.php
+
+# Ignorar archivos de medios y caché
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Ignorar archivos del sistema
+.DS_Store
+*.log
+*.sql  # Si no deseas subir respaldos; si quieres subir un respaldo, muévelo a una carpeta específica (por ej. "sql/")

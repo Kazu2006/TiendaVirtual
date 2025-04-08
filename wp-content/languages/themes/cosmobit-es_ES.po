@@ -1,0 +1,880 @@
+# Translation of Themes - Cosmobit in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Cosmobit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-11 10:10:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Cosmobit\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Cosmobit is lightweight, highly extendable and multi-purpose WordPress Theme. It will enable you to create almost any type of website with a beautiful & professional design. Cosmobit supports popular WordPress plugins such as Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, and much more. Cosmobit Pro demo https://preview.desertthemes.com/pro/cosmobit/"
+msgstr "Cosmobit es un tema ligero, altamente adaptable y multipropósito para WordPress. Te permitirá crear casi cualquier tipo de sitio web con un diseño hermoso y profesional. Cosmobit es compatible con plugins populares de WordPress como Elementor, WPML, Polylang, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, entre otros. Demo de Cosmobit Pro: https://preview.desertthemes.com/pro/cosmobit/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Cosmobit"
+msgstr "Cosmobit"
+
+#: inc/template-tags.php:453
+msgid "<a href=\"https://desertthemes.com/\" target=\"_blank\">Desert Themes</a>"
+msgstr "<a href=\"https://desertthemes.com/\" target=\"_blank\">Desert Themes</a>"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:46
+msgid "Get started with %1$s"
+msgstr "Primeros pasos con %1$s"
+
+#: inc/admin/getting-started.php:40
+msgid "To take full advantage of all the features of this theme, please install and activate the <strong>Desert Companion</strong> plugin, then enjoy this theme."
+msgstr "Para aprovechar al máximo todas las características de este tema, por favor instala y activa el plugin <strong>Desert Companion</strong>."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:36
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "¡Bienvenido! ¡Gracias por elegir %1$s!"
+
+#: inc/admin/getting-started.php:29
+msgid "Theme Screenshot"
+msgstr "Captura de pantalla del tema"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:287
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:571
+msgid "Typography Features"
+msgstr "Funciones de tipografía"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:559
+msgid "Sidebar Features"
+msgstr "Funciones de la barra lateral"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "Página de ancho completo"
+
+#: inc/customizer/controls/code/upgrade/class-customize.php:73
+msgid "Upgrade to Cosmobit Pro"
+msgstr "Actualiza a Cosmobit Pro"
+
+#: woocommerce/content-product.php:32
+msgid "Sale"
+msgstr "Oferta"
+
+#: woocommerce/cart/mini-cart.php:96 woocommerce/cart/mini-cart.php:189
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: woocommerce/cart/mini-cart.php:90 woocommerce/cart/mini-cart.php:184
+msgid "Checkout"
+msgstr "Pagar"
+
+#: woocommerce/cart/mini-cart.php:90 woocommerce/cart/mini-cart.php:184
+msgid "View Cart"
+msgstr "Ver carrito"
+
+#: woocommerce/cart/mini-cart.php:88 woocommerce/cart/mini-cart.php:182
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: woocommerce/cart/mini-cart.php:47 woocommerce/cart/mini-cart.php:141
+msgid "Remove this item"
+msgstr "Quitar este elemento"
+
+#: template-parts/site-header.php:18 template-parts/site-header.php:46
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:24
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seguir leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, prueba de nuevo con palabras diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: single.php:71
+msgid "Comments"
+msgstr "Comentarios"
+
+#: single.php:60 template-parts/content-page.php:38
+msgid "Read More"
+msgstr "Leer Más"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "Portada"
+
+#: inc/template-tags.php:321 inc/template-tags.php:347
+msgid "0"
+msgstr "0"
+
+#: inc/template-tags.php:291
+msgid "search Here"
+msgstr "busca aquí"
+
+#: inc/template-tags.php:290
+msgid "Search for:"
+msgstr "Buscar:"
+
+#: inc/template-tags.php:288
+msgid "search again"
+msgstr "buscar de nuevo"
+
+#: inc/template-tags.php:133
+msgid "Error 404"
+msgstr "Error 404"
+
+#: inc/template-tags.php:96
+msgid "Archive by category"
+msgstr "Archivo por categoría"
+
+#: inc/template-tags.php:91 inc/template-tags.php:94
+msgid "Home"
+msgstr "Inicio"
+
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:54
+msgid "Search results for"
+msgstr "Resultados de la búsqueda de"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:47
+msgid "%1$s "
+msgstr "%1$s "
+
+#. translators: %1$s %2$s: WooCommerce
+#: inc/template-tags.php:37
+msgid "Shop"
+msgstr "Shop"
+
+#. translators: %1$s %2$s: tag
+#: inc/template-tags.php:34
+msgid "Tag"
+msgstr "Etiqueta"
+
+#. translators: %1$s %2$s: category
+#: inc/template-tags.php:31
+msgid "Category"
+msgstr "Categoría"
+
+#. translators: %1$s %2$s: author
+#: inc/template-tags.php:28
+msgid "All posts by"
+msgstr "Todas las entradas de"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#: inc/template-tags.php:19 inc/template-tags.php:22 inc/template-tags.php:25
+msgid "Archives"
+msgstr "Archivos"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#. translators: %1$s %2$s: author
+#. translators: %1$s %2$s: category
+#. translators: %1$s %2$s: tag
+#. translators: %1$s %2$s: WooCommerce
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:19 inc/template-tags.php:22 inc/template-tags.php:25
+#: inc/template-tags.php:28 inc/template-tags.php:31 inc/template-tags.php:34
+#: inc/template-tags.php:37 inc/template-tags.php:54
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:519
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:465
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:342
+msgid "Font Size"
+msgstr "Tamaño de letra"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:301
+msgid "Headings (H1-H6) Typography"
+msgstr "Tipografía de encabezados (H1-H6)"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:266
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:550
+msgid "Line Through"
+msgstr "Tachado"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:265
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:549
+msgid "Overline"
+msgstr "Sobrerayado"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:264
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:548
+msgid "Underline"
+msgstr "Subrayado"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:258
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:543
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:241
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:526
+msgid "Capitalize"
+msgstr "Primera en mayúscula"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:240
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:525
+msgid "Lowercase"
+msgstr "Mínusculas"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:239
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:524
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:233
+msgid "Transform"
+msgstr "Transformación"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:217
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:502
+msgid "oblique"
+msgstr "oblique"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:216
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:501
+msgid "Italic"
+msgstr "Itálica"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:215
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:500
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:214
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:263
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:469
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:499
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:547
+msgid "Inherit"
+msgstr "Inherit"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:209
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:495
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:192
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:478
+msgid "Black: 900"
+msgstr "Black: 900"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:191
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:477
+msgid "Extra Bold: 800"
+msgstr "Extra Bold: 800"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:190
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:476
+msgid "Bold: 700"
+msgstr "Bold: 700"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:189
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:475
+msgid "Semibold: 600"
+msgstr "Semibold: 600"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:188
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:474
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:187
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:473
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:186
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:472
+msgid "Book: 300"
+msgstr "Book: 300"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:185
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:471
+msgid "Light: 200"
+msgstr "Light: 200"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:184
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:470
+msgid "Thin: 100"
+msgstr "Thin: 100"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:183
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:238
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:523
+msgid "Default"
+msgstr "Predeterminado"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:178
+msgid "Weight"
+msgstr "Grosor"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:139
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:427
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:97
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:382
+msgid "Line Height"
+msgstr "Interlineado"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:56
+msgid "Size"
+msgstr "Tamaño"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:19
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:37
+msgid "Body Typography"
+msgstr "Tipografía del cuerpo"
+
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:8
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:532
+msgid "WooCommerce Page Sidebar Option"
+msgstr "Opción de barra lateral de la página WooCommerce"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:505
+msgid "Search Page Sidebar Option"
+msgstr "Opción de barra lateral de la página de búsqueda"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:479
+msgid "Blog Page Sidebar Option"
+msgstr "Opción de barra lateral de la página del blog"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:452
+msgid "Single Page Sidebar Option"
+msgstr "Opción de barra lateral de una sola página"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:425
+msgid "Archive Page Sidebar Option"
+msgstr "Opción de barra lateral de página de archivo"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:406
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:432
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:459
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:486
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:512
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:539
+msgid "No Sidebar"
+msgstr "Sin barras laterales"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:405
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:431
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:458
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:485
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:511
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:538
+msgid "Right Sidebar"
+msgstr "Barra lateral a la derecha"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:404
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:430
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:457
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:484
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:510
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:537
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:399
+msgid "Default Page Sidebar Option"
+msgstr "Opción de barra lateral de página predeterminada"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:380
+msgid "Sidebar Layout"
+msgstr "Disposición de la barra lateral"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:361
+msgid "Sidebar Options"
+msgstr "Opciones de barra lateral"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:347
+msgid "Opacity Color"
+msgstr "Color de la opacidad"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:318
+msgid "Opacity"
+msgstr "Opacidad"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:299
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:281
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:241
+msgid "Top/Bottom Padding"
+msgstr "Relleno superior/inferior"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:223
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:203
+msgid "Hide / Show Section"
+msgstr "Ocultar / Mostrar sección"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:184
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:164
+msgid "Site Breadcrumb"
+msgstr "Ruta de navegación del sitio"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:144
+msgid "Container Width"
+msgstr "Anchura del contenedor"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:125
+msgid "Site Container"
+msgstr "Contenedor del sitio"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:102
+msgid "Hide / Show Scroller"
+msgstr "Ocultar / mostrar teletipo"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:83
+msgid "Top Scroller"
+msgstr "Teletipo superior"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:59
+msgid "Hide / Show Preloader"
+msgstr "Ocultar/Mostrar precargador"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:39
+msgid "Site Preloader"
+msgstr "Precargador del sitio"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:16
+msgid "General Options"
+msgstr "Ajustes generales"
+
+#: inc/customizer/customizer-settings/cosmobit-theme-customize-setting.php:7
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:285
+msgid "Sticky Header"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:266
+msgid "Header Sticky"
+msgstr "Cabecera fija"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:254
+msgid "Open in New Tab ?"
+msgstr "¿Abrir en una nueva pestaña?"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:234
+msgid "Button Link"
+msgstr "Enlace del botón"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:177
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:138
+msgid "Site Search"
+msgstr "Buscar en el sitio"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:116
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:155
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:196
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:302
+msgid "Hide/Show ?"
+msgstr "¿Ocultar/Mostrar?"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:97
+msgid "WooCommerce Cart"
+msgstr "Carrito de WooCommerce"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:76
+msgid "Navigation Bar"
+msgstr "Barra de navegación"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:42
+msgid "Logo Size"
+msgstr "Tamaño del logo"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:23
+msgid "Site Identity"
+msgstr "Identidad del sitio"
+
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:12
+msgid "Header Options"
+msgstr "Opciones de la cabecera"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:138
+msgid "Third Section (Assign Footer Menu)"
+msgstr "Tercera sección (Asignar menú de pie de página)"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:117
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:104
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Funciona gracias a [theme_author]"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:97
+msgid "Second Section"
+msgstr "Segunda sección"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:39
+msgid "First Section"
+msgstr "Primera sección"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:20
+msgid "Footer Copright"
+msgstr "Copyright del pie de página"
+
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:10
+msgid "Footer Options"
+msgstr "Opciones del pie de página"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:21
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:20
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:19
+msgid "Install and Activate"
+msgstr "Instalar y activar"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:18
+msgid "Recommended Plugin"
+msgstr "Plugin recomendado"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:17
+msgid "Recommended Actions"
+msgstr "Acciones recomendadas"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer-plugin-notice/cosmobit-notify-plugin.php:12
+msgid "If you want to show all the features and sections of the Theme. please install and activate %s plugin"
+msgstr "Si quieres mostrar todas las características y secciones destacadas de la portada, instala y activa el plugin %s"
+
+#: inc/customizer/customizer-plugin-notice/cosmobit-customizer-notify.php:112
+msgid "Activating"
+msgstr "Activando"
+
+#: inc/customizer/controls/code/editor/customizer-page-editor.php:27
+msgid "Save and close"
+msgstr "Guardar y cerrar"
+
+#: inc/customizer/controls/code/editor/class/class-cosmobit-page-editor.php:76
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: inc/customizer/controls/code/editor/class/class-cosmobit-page-editor.php:60
+msgid "About background"
+msgstr "Fondo de Sobre nosotros"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:776
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:809
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:771
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:801
+msgid "Remove Icon"
+msgstr "Eliminar icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:754
+msgid "Social icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:746
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:267
+#: inc/customizer/customizer-settings/cosmobit-typography-customize-setting.php:551
+msgid "None"
+msgstr "Nada"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:741
+msgid "Image type"
+msgstr "Tipo de imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:730
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:726
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:722
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:718
+msgid "Slide Align"
+msgstr "Alineación de diapositiva"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:707
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:681
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:710
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:678
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:745
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:56
+msgid "Image"
+msgstr "Imagen"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:643
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:642
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Nota: algunos iconos no se muestran aquí. Puedes ver la lista completa de iconos en %1$s."
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:637
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:744
+msgid "Icon"
+msgstr "Icono"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:626
+msgid "Open link in new tab:"
+msgstr "Abrir enlace en una nueva pestaña:"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:589
+msgid "Delete field"
+msgstr "Borrar campo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Button Label Second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:444
+msgid "Delete %s"
+msgstr "Eliminar %s"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:427
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:578
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:417
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:477
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:387
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:563
+msgid "Video Url"
+msgstr "URL del vídeo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:374
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:533
+msgid "link"
+msgstr "enlace"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:550
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:768
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:790
+#: inc/customizer/customizer-settings/cosmobit-footer-customize-setting.php:76
+msgid "Link"
+msgstr "Enlace"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:354
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:345
+msgid "Button Label second"
+msgstr "Etiqueta del segundo botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:337
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:517
+#: inc/customizer/customizer-settings/cosmobit-header-customize-setting.php:215
+msgid "Button Label"
+msgstr "Etiqueta del Botón"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:330
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:510
+msgid "Description"
+msgstr "Descripción"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:322
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:501
+msgid "Subtitle 2"
+msgstr "Subtítulo 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:314
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:493
+msgid "Subtitle"
+msgstr "Subtitulo"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:306
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:42
+msgid "Customizer Repeater"
+msgstr "Repetidor del personalizador"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:37
+msgid "Add new field"
+msgstr "Añadir nuevo campo"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "Añadir un menú"
+
+#: header.php:19
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: functions.php:156
+msgid "The Footer Widget Area 4"
+msgstr "Área 4 de widgets del pie de página"
+
+#: functions.php:154
+msgid "Footer  4"
+msgstr "Pie de página 4"
+
+#: functions.php:146
+msgid "The Footer Widget Area 3"
+msgstr "Área 3 de widgets del pie de página"
+
+#: functions.php:144
+msgid "Footer  3"
+msgstr "Pie de página 3"
+
+#: functions.php:136
+msgid "The Footer Widget Area 2"
+msgstr "Área 2 de widgets del pie de página"
+
+#: functions.php:134
+msgid "Footer  2"
+msgstr "Pie de página 2"
+
+#: functions.php:126
+msgid "The Footer Widget Area 1"
+msgstr "Área 1 de widgets del pie de página"
+
+#: functions.php:124
+msgid "Footer  1"
+msgstr "Pie de página 1"
+
+#: functions.php:116
+msgid "The Primary Widget Area"
+msgstr "Área de widgets principal"
+
+#: functions.php:114
+msgid "Sidebar Widget Area"
+msgstr "Área de widgets de la barra lateral"
+
+#: functions.php:105
+msgid "This Widget area for WooCommerce Widget"
+msgstr "Este área de widgets es para el widget de WooCommerce"
+
+#: functions.php:103
+msgid "WooCommerce Widget Area"
+msgstr "Área de widgets de WooCommerce"
+
+#: functions.php:44
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: 404.php:20
+msgid "Home Page"
+msgstr "Pagina de inicio"
+
+#: 404.php:19
+msgid "Sorry we cannot find that page! Go back to home"
+msgstr "Lo siento, no podemos encontrar esa página. Regresa a la página de inicio."
+
+#. translators: %1$s: 404
+#: 404.php:18 inc/template-tags.php:47
+msgid "404"
+msgstr "404"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/cosmobit-free/"
+msgstr "https://desertthemes.com/themes/cosmobit-free/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"
